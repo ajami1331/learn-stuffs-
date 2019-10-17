@@ -122,3 +122,5 @@ First dive into the DOM, the most fundamental API exposed by the browser. Once w
 ### Style Guide
 
 [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript)
+
+**[⬆ back to top](#table-of-contents)**
